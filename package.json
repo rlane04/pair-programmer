@@ -1,6 +1,6 @@
 {
   "name": "pair-programmer",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Pair Programmer for Claude Code, Codex and Cursor",
   "main": "src/index.js",
   "scripts": {
